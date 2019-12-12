@@ -47,8 +47,11 @@ my完成基本bfs设计以及基础连线（包括折线方向问题，但比较
 通过device context解决闪烁问题（找了好久资料...来直接奉上来点，方便）
 
 [wxpython之解决闪烁](https://blog.csdn.net/webzhuce/article/details/72802670)
+
 [给wxPython事件处理函数传递参数](https://segmentfault.com/a/1190000000487499)
+
 [wxpython之DC绘图](https://blog.csdn.net/m0_37816922/article/details/99582939)
+
 [【wxpython】设备上下文简介](https://blog.csdn.net/linuxarmsummary/article/details/78838417)
 
 成功手动画出各种门，但无法解决statictext无法跟随移动的问题（静态文本移动个锤子）
@@ -63,7 +66,7 @@ my完成基本bfs设计以及基础连线（包括折线方向问题，但比较
 
 大致效果如下：
 
-![1576167439642](logimages\secondversion2.png)
+![1576167439642](logimages/secondversion2.png)
 
 ### 12.4  
 
